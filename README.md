@@ -31,7 +31,8 @@ HotelManagementSystem/
 note: Each module is encapsulated in its own class for clarity and separation of concerns.
 
 📸 Screenshots
-
+<h1>resturant management</h1>
+<img src="resturant management.png">
 
 
 Console I/O
