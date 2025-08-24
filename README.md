@@ -44,7 +44,7 @@ note: Each module is encapsulated in its own class for clarity and separation of
 
 ## 👨‍💻 About the Author
 
-**Manjunath**  
+**Manjunath S**  
 Java Full Stack Developer | BCA Graduate (2025)  
 🔧 Skilled in Java, Spring Boot, SQL, javascript,HTML,CSS
 🎯 Passionate about building scalable web apps and clean code  
