@@ -32,7 +32,7 @@ note: Each module is encapsulated in its own class for clarity and separation of
 
 📸 Screenshots
 <h1>resturant management</h1>
-<img src="resturant management.png" width="100px">
+<img src="resturant management.png" width="150px">
 
 
 Console I/O
